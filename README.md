@@ -1,7 +1,7 @@
 # Introduction
  This report has two results from the lab. The first result is about sentiment analysis with the BERT model on Drug review datasets.1 We built a model to predict the sentiment of the drug review. The second result is about survival analysis with RSF and ANN on the breast cancer datasets from the University of Wisconsin.2 We built a model to predict time till the events, breast cancer occurs in our case, with other features.
 
-if you want to watch more report of this, then you can find it in report file in this git.
+## if you want to watch more report of this, then you can find it in report file in this git.
 
 References
 1. 	Gräßer F, Kallumadi S, Malberg H, Zaunseder S. Aspect-Based Sentiment Analysis of Drug Reviews Applying Cross-Domain and Cross-Data Learning. In: Proceedings of the 2018 International Conference on Digital Health. ACM; 2018:121-125. doi:10.1145/3194658.3194677
